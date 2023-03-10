@@ -1,3 +1,3 @@
-# Task - 1 : Iris Flower Classification
+# Task - 3 : Car Price Prediction
 
-![Task1](https://user-images.githubusercontent.com/76729304/217493789-e98cc33a-a9be-420b-8eec-e53f0c96fdd1.png)
+![Task3](https://user-images.githubusercontent.com/76729304/217494809-dc2dd195-440b-46d2-ba65-98896191be7c.png)
